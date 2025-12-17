@@ -5,13 +5,13 @@
 1. Встановіть залежності: ```bash npm install ethers
 
 2. Запустіть скрипт: bash
-node sendToken.js <PRIVATE_KEY> <TO_ADDRESS> <AMOUNT>
+node sendToken.js <PRIVATE_KEY> <TO_ADDRESS> <`AMOUNT`>
 
 <PRIVATE_KEY> — приватний ключ відправника
 
 <TO_ADDRESS> — публічна адреса отримувача
 
-<Amount> — сума в ETH (наприклад 0.01)
+<`AMOUNT`> — сума в ETH (наприклад 0.01)
 
 3.У консолі буде виведено:
 

@@ -11,7 +11,7 @@ node sendToken.js <PRIVATE_KEY> <TO_ADDRESS> <AMOUNT>
 
 <TO_ADDRESS> — публічна адреса отримувача
 
-<AMOUNT> — сума в ETH (наприклад 0.01)
+<AMOUNT > — сума в ETH (наприклад 0.01)
 
 3.У консолі буде виведено:
 
